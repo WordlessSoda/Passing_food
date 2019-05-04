@@ -75,8 +75,26 @@
 }
 .line {
 }
+.arrow {
+}
 ._图片 {
   color:#000000;
 }
 .flow_shape {
+}
+.text_field {
+  color:#000000;
+  text-align:left;
+}
+.primary_button {
+  color:#FFFFFF;
+}
+.shape {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  color:#333333;
+  text-align:center;
+  line-height:normal;
 }
